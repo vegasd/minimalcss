@@ -13,7 +13,7 @@ input[type="search"], /* to override global.css */
 select,
 textarea {color:#F1F1F1; padding:3px; background:#262626; border:1px solid #9C9C9C; font-family:Arial,sans-serif; font-size:11px; }
 input:focus, textarea:focus{border:1px solid #CCC}
-blockquote{background:transparent url(images/blockquote.png) repeat; padding:5px; margin:10px; color:#F1F1F1 !important}
+blockquote{background:transparent url(https://passtheheadphones.me/static/styles/minimal/images/blockquote.png) repeat; padding:5px; margin:10px; color:#F1F1F1 !important}
 input[type="submit"]:focus, input[type="button"]:focus{background:#333}
 input[type="submit"]:active, input[type="button"]:active{background:#5AF}
 select{padding:1px}
