@@ -41,7 +41,7 @@ textarea#quickpost{margin:0; padding:0}
 
 /* header layout */
 #header{position: relative; overflow: visible; height: 110px; z-index: 4;}
-#logo{width: 94px; height: 74px; position: absolute; top: 8px; left: 0; background-repeat: no-repeat; background-image: url(images/logo.png);}
+#logo{width: 94px; height: 74px; position: absolute; top: 8px; left: 0; background-repeat: no-repeat; background-image: url(https://passtheheadphones.me/static/styles/minimal/images//logo.png);}
 #logo a{width: 94px; height: 74px; display: block;}
 
 /* menu */
@@ -61,7 +61,7 @@ textarea#quickpost{margin:0; padding:0}
 #userinfo_username li:first-child, #userinfo_major li:first-child, #userinfo_minor li:first-child, #userinfo_username li:first-child:hover, #userinfo_major li:first-child:hover, #userinfo_minor li:first-child:hover,
 #userinfo_username li:first-child a, #userinfo_username li:first-child a:hover, #userinfo_minor li:first-child a, #userinfo_minor li:first-child a:hover,
 #userinfo_major li:first-child a, #userinfo_major li:first-child a:hover, #searchbars input, .alertbar,
-.show_torrents, .hide_torrents, .save_message, #searchbars ul li ul li.highlight{background-image:url(images/sprite.png)}
+.show_torrents, .hide_torrents, .save_message, #searchbars ul li ul li.highlight{background-image:url(https://passtheheadphones.me/static/styles/minimal/images/sprite.png)}
 
 /* userinfo start */
 #userinfo{z-index:3}
