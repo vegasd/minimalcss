@@ -31,7 +31,7 @@ textarea#quickpost{margin:0; padding:0}
 .rowa td{background-color:#111}
 .rowb td{background-color:#222}
 .min_padding{padding:0}
-.head, .colhead, #user table tr td.center strong{background:#454545 !important; padding:5px 7px; border:1px solid #757575 !important}
+.head, .colhead, #user table tr td.center strong{background:#333 !important; padding:5px 7px; border:1px solid #757575 !important}
 .label {
 	width: 150px;
 }
@@ -41,7 +41,7 @@ textarea#quickpost{margin:0; padding:0}
 
 /* header layout */
 #header{position: relative; overflow: visible; height: 110px; z-index: 4;}
-#logo{width: 94px; height: 74px; position: absolute; top: 8px; left: 0; background-repeat: no-repeat; background-image: url(https://passtheheadphones.me/static/styles/minimal/images//logo.png);}
+#logo{width: 94px; height: 74px; position: absolute; top: 8px; left: 0; background-repeat: no-repeat; background-image: url(https://passtheheadphones.me/static/styles/minimal/images/logo.png);}
 #logo a{width: 94px; height: 74px; display: block;}
 
 /* menu */
@@ -55,7 +55,7 @@ textarea#quickpost{margin:0; padding:0}
 
 /* active menu item */
 #index #nav_index a, #torrents #nav_torrents a, #collage #nav_collages a, #requests #nav_requests a, #forums #nav_forums a, #top10 #nav_top10 a, #rules #nav_rules a, #kb #nav_wiki a, #wiki #nav_wiki a, #staff #nav_staff a, #chat #nav_irc a
-{background: #5AF;}
+{background: #FA5;}
 
 /* sprite */
 #userinfo_username li:first-child, #userinfo_major li:first-child, #userinfo_minor li:first-child, #userinfo_username li:first-child:hover, #userinfo_major li:first-child:hover, #userinfo_minor li:first-child:hover,
@@ -143,7 +143,7 @@ textarea#quickpost{margin:0; padding:0}
 	top: 1em;
 	left: 0;
 	z-index: 1000;
-	background: #262626 url(/static/styles/minimal/images/bg.png) repeat-x 0 -3px;
+	/*background: #262626 url(/static/styles/minimal/images/bg.png) repeat-x 0 -3px;*/
 	border: 1px solid #757575;
 	margin-top: 12px;
 	white-space: nowrap;
@@ -232,7 +232,7 @@ table tr.colhead_dark td{background:#555; border:0}
 #forums h3:first-child{margin:0 0 15px 0}
 #forums table.border .cat_list{width:80%}
 #forums table.border .cat_list td{width:20%; padding:0 !important; border:0 !important}
-.forum_unread .colhead_dark{background-color:#e3f1f9 !important; /*border:2px solid #a8d3ec !important; */}
+.forum_unread .colhead_dark{background-color:#f34 !important; /*border:2px solid #a8d3ec !important; */}
 #forums table.forum_unread tr.colhead_dark td{background:#3A638C url(https://passtheheadphones.me/static/styles/minimal/images/unread.png) no-repeat 91% 50%}
 
 .last_read { width: 15px; height: 15px; background: url(https://passtheheadphones.me/static/styles/minimal/images/go_last_read.png) no-repeat center center; margin-left: 5px; margin-left: 5px;}
