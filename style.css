@@ -55,7 +55,7 @@ textarea#quickpost{margin:0; padding:0}
 
 /* active menu item */
 #index #nav_index a, #torrents #nav_torrents a, #collage #nav_collages a, #requests #nav_requests a, #forums #nav_forums a, #top10 #nav_top10 a, #rules #nav_rules a, #kb #nav_wiki a, #wiki #nav_wiki a, #staff #nav_staff a, #chat #nav_irc a
-{background: #F34;}
+{background: #333;}
 
 /* sprite */
 #userinfo_username li:first-child, #userinfo_major li:first-child, #userinfo_minor li:first-child, #userinfo_username li:first-child:hover, #userinfo_major li:first-child:hover, #userinfo_minor li:first-child:hover,
