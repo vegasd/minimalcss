@@ -21,15 +21,15 @@ input#file, input[type="file"]{color:#000}
 textarea#quickpost{margin:0; padding:0}
 
 /* GENERAL */
-.box, .box2, #content table tr td{background: #373737; margin-bottom: 15px;}
+.box, .box2, #content table tr td{background: #121212; margin-bottom: 15px;}
 .pad{padding: 10px;}
 
 .sidebar .box{position:relative}
 .sidebar img{max-width:228px}
 .hidden, .hide{display:none}
 .nobr{white-space:nowrap; font-weight:normal}
-.rowa td{background-color:#2A2A2A}
-.rowb td{background-color:#232323}
+.rowa td{background-color:#111}
+.rowb td{background-color:#222}
 .min_padding{padding:0}
 .head, .colhead, #user table tr td.center strong{background:#454545 !important; padding:5px 7px; border:1px solid #757575 !important}
 .label {
