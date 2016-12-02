@@ -203,7 +203,7 @@ table tr td{border:1px solid #757575}
 #inbox form textarea{margin:0 0 10px 0}
 #messageform input{margin-top:5px}
 #inbox table a{color:#AAA}
-#inbox .unreadpm a{color:#5AF; font-weight:bold}
+#inbox .unreadpm a{color:#eeba7a; font-weight:bold}
 
 /* LOGS */
 #log .center{margin-bottom:8px}
@@ -255,7 +255,7 @@ strong.quoteheader {color: #f1f1f1;}
 /* TOO MUCH BLUE FIXES */
 #forums #content a{color:#F1F1F1}
 #forums #content a:hover{color:#007dc6}
-#forums #content .forum_post a, #forums #content .linkbox a, #forums #content h2 a, #forums #content .forum_post .colhead_dark a, #forums #content #quickpostform a{color:#5AF}
+#forums #content .forum_post a, #forums #content .linkbox a, #forums #content h2 a, #forums #content .forum_post .colhead_dark a, #forums #content #quickpostform a{color:#eeba7a}
 #forums #content .forum_post a:hover, #forums #content .linkbox a:hover, #forums #content h2 a:hover, #forums #content .forum_post .colhead_dark a:hover, #forums #content #quickpostform a{color:#eeba7a}
 
 #forums .rowb .min_padding img, #forums .rowa .min_padding img{position:relative; top:3px}
