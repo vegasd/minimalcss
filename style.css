@@ -3,8 +3,8 @@
 /* GLOBAL */
 body{background:#000000; color:#F1F1F1; font-family:Arial,sans-serif; font-size:12px; margin:0}
 h1, h2, h3, h4{margin-top:0; padding:0}
-a, a:visited, a:active{color:#5AF; text-decoration:none}
-a:hover{color:#49D; text-decoration:underline}
+a, a:visited, a:active{color:#eeba7a; text-decoration:none}
+a:hover{color:#fda; text-decoration:underline}
 a img{border-style:none; position:relative; top:1px}
 p{margin:10px 0 5px 0}
 td p{margin:0}
@@ -109,7 +109,7 @@ textarea#quickpost{margin:0; padding:0}
 #userinfo_stats{top:34px; width:230px; right:0; z-index:1 !important; text-align:left}
 #userinfo_stats li{float:right; margin-left:5px; width:102px; position:relative; top:1px; z-index:1 !important}
 #userinfo_stats *{padding:1px 0.5px}
-#userinfo_stats .stat{color:#5AF}
+#userinfo_stats .stat{color:#eeba7a}
 
 /* greasemonkey replacements */
 #userinfo_username>li:first-child + li>a{ background: transparent no-repeat url(https://passtheheadphones.me/static/styles/minimal/images/sprite.png) 0 -322px;}
@@ -256,7 +256,7 @@ strong.quoteheader {color: #f1f1f1;}
 #forums #content a{color:#F1F1F1}
 #forums #content a:hover{color:#007dc6}
 #forums #content .forum_post a, #forums #content .linkbox a, #forums #content h2 a, #forums #content .forum_post .colhead_dark a, #forums #content #quickpostform a{color:#5AF}
-#forums #content .forum_post a:hover, #forums #content .linkbox a:hover, #forums #content h2 a:hover, #forums #content .forum_post .colhead_dark a:hover, #forums #content #quickpostform a{color:#5AF}
+#forums #content .forum_post a:hover, #forums #content .linkbox a:hover, #forums #content h2 a:hover, #forums #content .forum_post .colhead_dark a:hover, #forums #content #quickpostform a{color:#eeba7a}
 
 #forums .rowb .min_padding img, #forums .rowa .min_padding img{position:relative; top:3px}
 
@@ -330,7 +330,7 @@ strong.quoteheader {color: #f1f1f1;}
 .group td.nobr{font-weight:normal}
 #taglist td{border:0}
 #taglist a, .tags a{font-weight:normal; color:#888}
-#taglist a:hover, .tags a:hover{color:#007dc6}
+#taglist a:hover, .tags a:hover{color:#fda}
 
 #torrent_table{margin:0; padding:0; border-spacing:0; border-collapse:collapse; width:100%}
 #torrent_table a img{border:0}
@@ -342,7 +342,7 @@ strong.quoteheader {color: #f1f1f1;}
 .torrent_table .pad td td{border-left:0 !important; border-right:0 !important; background:none; padding:5px !important}
 .torrent_table tr.group_torrent td span, #torrent_table tr.group_torrent td span{padding-left:18px}
 .torrent_table tr.group_torrent a, #torrent_table tr.group_torrent a{color:#999; font-weight:normal}
-.torrent_table tr.group_torrent a:hover, #torrent_table tr.group_torrent a:hover{color:#007dc6}
+.torrent_table tr.group_torrent a:hover, #torrent_table tr.group_torrent a:hover{color:#fda}
 
 #torrents #content .center .box form div input[type="text"],
 #torrents #content .center .box form div input[type="search"],
